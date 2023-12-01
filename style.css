@@ -1,0 +1,41 @@
+body{
+    background-color: azure;
+    padding: 40px;
+    margin-top: 50px;
+}
+.css{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: beige;
+    text-align: center;
+    border: solid 2px;
+}
+.textcolor_background{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: gainsboro ;
+    text-shadow: 2px 2px 5px red;
+    padding: 20px;
+    border: solid;
+}
+.textalignment{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: right;
+    background-color: bisque;
+    text-shadow: 2px 2px 5px green;
+    padding: 20px;
+    border: solid;
+}
+.textalignment{
+    
+}
+.textdecoration{
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration-line: overline underline;
+    background-color: beige;
+    text-shadow: 2px 2px 5px blue;
+    text-decoration-line: overline underline;
+    padding: 20px;
+    border: solid;
+}
+.textdecoration h1{
+    color: aqua;
+}
